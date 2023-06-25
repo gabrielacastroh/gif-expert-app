@@ -1,4 +1,4 @@
-# gif-expert-app
+# Gif Search App
 
 ## Link: https://dainty-choux-b482ab.netlify.app/
 
