@@ -2,4 +2,5 @@
 
 ## Link: https://dainty-choux-b482ab.netlify.app/
 
-![image](https://github.com/gabrielacastroh/gif-expert-app/assets/38534250/24973350-ddd3-4f88-a20f-3aee4d93a022)
+![image](https://github.com/gabrielacastroh/gif-expert-app/assets/38534250/6b7742a5-2ec8-4a28-a258-fe4081e89c42)
+
